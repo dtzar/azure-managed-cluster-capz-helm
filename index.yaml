@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  azure-managed-cluster:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-14T23:00:07.185747054Z"
+    description: A Helm chart to deploy an AKS cluster via the cluster-api-provider-azure
+      ManagedCluster
+    digest: c07177663d3cab471d56a10fe8352a961d6723722f901c3a613c6b945cd97b3a
+    name: azure-managed-cluster
+    type: application
+    urls:
+    - https://github.com/dtzar/azure-managed-cluster-capz-helm/releases/download/azure-managed-cluster-0.2.0/azure-managed-cluster-0.2.0.tgz
+    version: 0.2.0
+generated: "2024-03-14T23:00:07.185753787Z"
